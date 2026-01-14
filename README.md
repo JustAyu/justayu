@@ -7,9 +7,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=justayu&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<table border="0">
+<table border="0" align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚀 What I'm Up To</h3>
       <ul>
         <li>🔭 Currently building my <b>Website Startup</b></li>
