@@ -7,19 +7,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=justayu&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
-<table border="0" align="center">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🚀 What I'm Up To</h3>
-      <ul>
-        <li>🔭 Currently building my <b>Website Startup</b></li>
-        <li>🌱 Learning <b>Cloud Architecture (AWS)</b></li>
+<p border="0" align="center">
+  <h3>🚀 What I'm Up To</h3>
+  <ul>
+      <li>🔭 Currently building my <b>Website Startup</b></li>
+      <li>🌱 Learning <b>Cloud Architecture (AWS)</b></li>
         <li>⚡ Response: <b>Quality > Speed</b> (Stay patient!)</li>
         <li>📫 Contact: <a href="https://t.me/MightyAyush">Telegram</a></li>
       </ul>
-    </td>
-    </tr>
-</table>
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
