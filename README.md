@@ -23,11 +23,7 @@
         <li>📫 Contact: <a href="https://t.me/MightyAyush">Telegram</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏆 GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=justayu&theme=tokyonight&no-frame=true&margin-w=15" width="100%" />
-    </td>
-  </tr>
+    </tr>
 </table>
 
 ## 🛠️ Tech Stack
@@ -36,11 +32,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/justayu/justayu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=justayu&label=Profile%20Views&color=0e75b6&style=flat-square" />
